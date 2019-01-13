@@ -7,6 +7,6 @@ var tronSoljsonReleases = {
 
 if (typeof(module) !== 'undefined')
   module.exports = {
-    'allVersions': tronSoljsonSources 
+    'allVersions': tronSoljsonSources,
     'releases': tronSoljsonReleases 
   };
