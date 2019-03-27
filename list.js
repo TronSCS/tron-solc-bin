@@ -1,8 +1,8 @@
 var tronSoljsonSources = [
-  "0.4.25_Odyssey_v3.2.3.js",
-  "soljson_v1.js",
-  "soljson_v2.js",
-  "soljson_v3.js"
+  "tron_0.4.25_Odyssey_v3.2.3.js",
+  "tronbox_soljson_v1.js",
+  "tronbox_soljson_v2.js",
+  "tronbox_soljson_v3.js"
 ];
 var tronSoljsonReleases = {
   "Tron:0.4.25_Odyssey_v3.2.3": "tron_0.4.25_Odyssey_v3.2.3.js",
